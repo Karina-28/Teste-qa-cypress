@@ -1,4 +1,4 @@
-# Teste-qa-cypress
+# Teste-qa-cypress-e-inscrição
 Repositório contém um teste de check-out em cypress básico.
 
 TESTE CASE:
@@ -11,6 +11,7 @@ participante;
 email, com entradas válidas;
 6. Clica em “Finalizar”;
 7. Clica em “Salvar comprovante”.
+
 
 
 - INSTALANDO O CYPRESS
