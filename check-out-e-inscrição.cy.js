@@ -28,6 +28,5 @@ describe("Teste de checkout", () => {
     // Passo 7
     cy.get('body').should();
     cy.get('[style="position: relative; display: inline-block; width: auto;"] > .MuiButtonBase-root > .MuiButton-label').click();
-
   });
 });
