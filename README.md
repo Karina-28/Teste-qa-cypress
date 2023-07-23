@@ -28,8 +28,10 @@ email, com entradas válidas;
 - PARA VERIFICAR SE TUDO ESTÁ INSTALADO...
   Digite no prompt de comando:
   
-git --version 
+git --version
+
 node --version 
+
 npm --version 
   
     
