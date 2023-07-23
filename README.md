@@ -35,5 +35,15 @@ git --version
 node --version 
 
 npm --version 
+
+
+
+-PARA CRIAR UM ARQUIVO DE TESTE DENTRO DO PROJETO NO VSCODE
+
+- Adicione um arquivo com o nome do seu teste e com a extensão .cy.js dentro da pasta cypress>e2e
+ ![image](https://github.com/Karina-28/Teste-qa-cypress/assets/117238425/1c86811c-8617-42e5-981e-297d821d47be)
+
+
+
   
     
