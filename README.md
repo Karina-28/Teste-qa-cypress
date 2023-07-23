@@ -14,12 +14,22 @@ email, com entradas válidas;
 
 
 - INSTALANDO O CYPRESS
-1. Instalar o NodeJS https://nodejs.org/pt-br/download;
+1. Instalar o Node JS https://nodejs.org/pt-br/download;
 2. Instalar o NPM (já vem com o node)
-3. Instalar o Visual Studio Code https://code.visualstudio.com/download
-4. Instalar o arquivo package.Json do projeto pelo prompt de comando utilizando: npm init -y
-5. Abrir o VSCode pelo prompt de comando utilizando: code .
-6. No arquivo package.json adicionar: "cypress:open":"cypress open"
-7. Abrir o terminal no VScode e digitar: npm install cypress
-8. Aguarde a instalação do cypress
-9. Abra o cypress com: npx cypress open no terminal
+3. Instalar o Git
+4. Instalar o Visual Studio Code https://code.visualstudio.com/download
+5. Instalar o arquivo package.Json do projeto pelo prompt de comando utilizando: npm init -y
+6. Abrir o VSCode pelo prompt de comando utilizando: code .
+7. No arquivo package.json adicionar: "cypress:open":"cypress open"
+8. Abrir o terminal no VScode e digitar: npm install cypress
+9. Aguarde a instalação do cypress
+10. Abra o cypress com: npx cypress open no terminal
+
+- PARA VERIFICAR SE TUDO ESTÁ INSTALADO...
+  Digite no prompt de comando:
+  
+git --version 
+node --version 
+npm --version 
+  
+    
