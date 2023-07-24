@@ -27,6 +27,8 @@ describe("Teste de checkout", () => {
 
     // Passo 7
     cy.get('body').should();
+    
+    //Erro de Timed Out pouco antes de clicar para salvar o comprovante
     cy.get('[style="position: relative; display: inline-block; width: auto;"] > .MuiButtonBase-root > .MuiButton-label').click();
   });
 });
