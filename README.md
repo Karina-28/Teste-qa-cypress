@@ -47,3 +47,4 @@ npm --version
 
   
     
+[![Teste-qa-cypress](https://img.shields.io/endpoint?url=https://cloud.cypress.io/badge/simple/9ef8w6&style=flat&logo=cypress)](https://cloud.cypress.io/projects/9ef8w6/runs)
