@@ -1,4 +1,4 @@
-# Teste-qa-cypress-e-inscrição
+# Teste-qa-cypress-site-ecomerce
 Repositório contém um teste de check-out em cypress básico.
 
 
